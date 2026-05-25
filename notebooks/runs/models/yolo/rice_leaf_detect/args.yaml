@@ -107,4 +107,4 @@ auto_augment: randaugment
 erasing: 0.4
 cfg: null
 tracker: botsort.yaml
-save_dir: D:\Python Projects\RicAI_CV\ric_cv\notebooks\runs\models\yolo\rice_leaf_detect
+save_dir: D:\Python Projects\RicAI_CV_main\ric_cv\notebooks\runs\models\yolo\rice_leaf_detect

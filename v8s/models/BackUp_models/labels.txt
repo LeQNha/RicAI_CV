@@ -1,0 +1,10 @@
+bacterial_blight
+barrow_brown_leaf_spot
+brown_spot
+healthy
+leaf_blast
+leaf_scald
+leaf_smut
+neck_blast
+rice_hispa
+sheath_blighttungro
